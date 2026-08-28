@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Generated audio files
+*.wav
+
+# Hugging Face cache
+.cache/
+
+# IDE files
+.vscode/
+.idea/
